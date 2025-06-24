@@ -16,11 +16,11 @@
         }
 
         g#industriales {
-            fill: #125389;
+            fill: #feff00;
         }
 
         g#sinmencion {
-            fill: #00c3ff;
+            fill: #ff0000;
         }
 
         .rayita {

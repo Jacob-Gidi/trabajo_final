@@ -30,19 +30,19 @@
         .s4 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #ff0000;
             stroke-width: 3;
         }
         .s5 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 2;
         }
         .s6 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 15.2;
         }
         .s7 {
@@ -60,7 +60,7 @@
         .s9 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 5.1;
         }
         .s10 {
@@ -78,49 +78,49 @@
         .s12 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 12.2;
         }
         .s13 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 4.1;
         }
         .s14 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #ff0000;
             stroke-width: 4.1;
         }
         .s15 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #ff0000;
             stroke-width: 1;
         }
         .s16 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 6.1;
         }
         .s17 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 1;
         }
         .s18 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 3;
         }
         .s19 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #125389;
+            stroke: #feff00;
             stroke-width: 8.1;
         }
         .s20 {
@@ -132,7 +132,7 @@
         .s21 {
             mix-blend-mode: multiply;
             fill: none;
-            stroke: #00c3ff;
+            stroke: #ff0000;
             stroke-width: 2;
         }
         .s22 {
